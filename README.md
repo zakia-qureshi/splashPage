@@ -1,0 +1,2 @@
+# splashPage
+splashPage html code
